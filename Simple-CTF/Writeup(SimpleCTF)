@@ -1,4 +1,4 @@
-#SIMPLE CTF {TRY HACK ME}
+# SIMPLE CTF {TRY HACK ME}
 
 Let's start by scanning the machine using nmap.
 sudo nmap -sSCV -vv {MACHINE IP}
