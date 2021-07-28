@@ -4,7 +4,7 @@
 
 Let's start by scanning the machine using nmap.
 
->sudo nmap -sSCV -vv {MACHINE IP}
+> sudo nmap -sSCV -vv {MACHINE IP}
 
 ![Scan Output](https://github.com/M4ddy19/TRYHACKME/blob/main/Simple-CTF/Images/1.png)
 
@@ -60,7 +60,7 @@ We can also use hydra to get password by using the userame Mitch we found in the
 
 Q) What's the password?
 
-A )s****t
+A) s****t
 
 Q) Where can you login with the details obtained?
 
