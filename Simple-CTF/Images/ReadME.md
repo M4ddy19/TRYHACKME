@@ -1,1 +1,1 @@
-All the images related to Simpple CTF Try Hack Me
+All the images related to Try Hack Me Simple CTF.
