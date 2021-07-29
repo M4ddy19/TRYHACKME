@@ -1,1 +1,1 @@
-Images of Try Hack Me Hydra room
+All the images related to Try Hack Me Hydra room.
