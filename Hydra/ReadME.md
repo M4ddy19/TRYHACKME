@@ -10,7 +10,7 @@ First let's open the web page.
 
 Now we have to check for the request method.
 
-To check the request method open developer tools (Ctrl + Shift + I)  and select network option. Now fill login details with any username and password and click on login. Then select login in developer tools and we will get the request method. This time request method is POST.
+To check the request method open developer tools (Ctrl + Shift + I)  and select network option. Now fill login details with any username and password and click on login. Then select login in developer tools and we will get the request method under header section. This time request method is POST.
 
 ![Request Method](https://github.com/M4ddy19/TRYHACKME-Writeups/blob/main/Hydra/Images/2.png)
 
